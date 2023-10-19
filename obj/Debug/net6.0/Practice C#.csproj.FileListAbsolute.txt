@@ -1,0 +1,15 @@
+D:\Console App\Practice C#\Practice C#\bin\Debug\net6.0\Practice C#.exe
+D:\Console App\Practice C#\Practice C#\bin\Debug\net6.0\Practice C#.deps.json
+D:\Console App\Practice C#\Practice C#\bin\Debug\net6.0\Practice C#.runtimeconfig.json
+D:\Console App\Practice C#\Practice C#\bin\Debug\net6.0\Practice C#.dll
+D:\Console App\Practice C#\Practice C#\bin\Debug\net6.0\Practice C#.pdb
+D:\Console App\Practice C#\Practice C#\obj\Debug\net6.0\Practice C#.csproj.AssemblyReference.cache
+D:\Console App\Practice C#\Practice C#\obj\Debug\net6.0\Practice C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console App\Practice C#\Practice C#\obj\Debug\net6.0\Practice C#.AssemblyInfoInputs.cache
+D:\Console App\Practice C#\Practice C#\obj\Debug\net6.0\Practice C#.AssemblyInfo.cs
+D:\Console App\Practice C#\Practice C#\obj\Debug\net6.0\Practice C#.csproj.CoreCompileInputs.cache
+D:\Console App\Practice C#\Practice C#\obj\Debug\net6.0\Practice C#.dll
+D:\Console App\Practice C#\Practice C#\obj\Debug\net6.0\refint\Practice C#.dll
+D:\Console App\Practice C#\Practice C#\obj\Debug\net6.0\Practice C#.pdb
+D:\Console App\Practice C#\Practice C#\obj\Debug\net6.0\Practice C#.genruntimeconfig.cache
+D:\Console App\Practice C#\Practice C#\obj\Debug\net6.0\ref\Practice C#.dll
